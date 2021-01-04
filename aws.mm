@@ -1,7 +1,17 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1587627251312" ID="ID_1379027597" MODIFIED="1590055126552" TEXT="Amazon Web Service">
-<node CREATED="1562556957133" FOLDED="true" ID="ID_1244450542" MODIFIED="1592208026037" POSITION="right" TEXT="Products">
+<node CREATED="1587627251312" ID="ID_1379027597" MODIFIED="1606967779622" TEXT="Amazon Web Service">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <a href="https://www.python.org/">https://www.python.org/</a>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1562556957133" FOLDED="true" ID="ID_1244450542" MODIFIED="1601258099714" POSITION="right" TEXT="Products">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1440,7 +1450,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1564475866622" ID="ID_1607736000" MODIFIED="1567063799713" TEXT="AWS Rount 53">
+<node CREATED="1564475866622" ID="ID_1607736000" MODIFIED="1600048726128" TEXT="AWS Rount 53">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1760,20 +1770,20 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1588731940973" ID="ID_1117454412" MODIFIED="1588731945528" POSITION="right" TEXT="training">
+<node CREATED="1588731940973" ID="ID_1117454412" MODIFIED="1603443874439" POSITION="right" TEXT="training">
 <node CREATED="1588731946409" ID="ID_733175674" MODIFIED="1591154161048" TEXT="bilibili">
-<node CREATED="1588829979104" ID="ID_832804436" MODIFIED="1592561693761" TEXT="AWS &#x670d;&#x52a1;&#x64cd;&#x4f5c;&#x6307;&#x5357;">
+<node CREATED="1588829979104" ID="ID_832804436" MODIFIED="1602833188284" TEXT="AWS &#x670d;&#x52a1;&#x64cd;&#x4f5c;&#x6307;&#x5357;">
 <node CREATED="1588735361099" ID="ID_1494110648" MODIFIED="1588735382142" TEXT="https://www.bilibili.com/video/BV1ZJ41167LU"/>
 <node CREATED="1588734800352" ID="ID_1708444989" MODIFIED="1592561701488" TEXT="1. AWS account, IAM, EC2, S3, Billing alarm">
 <node CREATED="1588734821531" ID="ID_1714851715" MODIFIED="1588825183324" TEXT="Create a new global account">
 <node CREATED="1588734838767" ID="ID_1295605835" MODIFIED="1588734855202" TEXT="http://aws.amazon.com">
 <node CREATED="1588737362390" ID="ID_1862658282" MODIFIED="1588737369296" TEXT="new">
 <node CREATED="1588735422222" ID="ID_487080228" MODIFIED="1589276114270" TEXT="1020798180@qq.com"/>
-<node CREATED="1588735442980" ID="ID_419214998" MODIFIED="1588735455577" TEXT="1*****Say"/>
+<node CREATED="1588735442980" ID="ID_419214998" MODIFIED="1607330914805" TEXT="8**4**M***"/>
 <node CREATED="1588750615699" ID="ID_1543095758" MODIFIED="1588750830086" TEXT="Your services may take up to 24 hours to fully activate"/>
 </node>
 <node CREATED="1588737374696" ID="ID_1634354263" MODIFIED="1588737377629" TEXT="old">
-<node CREATED="1588737391075" ID="ID_161392968" MODIFIED="1588737402368" TEXT="gwaysoft@icloud.com">
+<node CREATED="1588737391075" ID="ID_161392968" MODIFIED="1596093144451" TEXT="gwaysoft@icloud.com">
 <node CREATED="1590031276627" ID="ID_1925162183" MODIFIED="1590031279011" TEXT="224837422659"/>
 </node>
 <node CREATED="1588735442980" ID="ID_1228860560" MODIFIED="1588735455577" TEXT="1*****Say"/>
@@ -1884,7 +1894,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1588830184133" ID="ID_546083777" MODIFIED="1590393691447" TEXT="2. S3, CLi, CloudWatch">
+<node CREATED="1588830184133" FOLDED="true" ID="ID_546083777" MODIFIED="1600047222479" TEXT="2. S3, CLi, CloudWatch">
 <node CREATED="1588831921116" ID="ID_351376952" MODIFIED="1588831927233" TEXT="Properties">
 <node CREATED="1588831928125" ID="ID_1399451948" MODIFIED="1588831938169" TEXT="Static website hosting">
 <node CREATED="1588831985342" ID="ID_513582434" MODIFIED="1588831987451" TEXT=": http://demo-s3-bucket-qq.s3-website.us-east-2.amazonaws.com"/>
@@ -1903,6 +1913,9 @@
 <node CREATED="1591240896151" ID="ID_862585309" MODIFIED="1591240899761" TEXT="msi"/>
 </node>
 <node CREATED="1588833978605" ID="ID_1181703759" MODIFIED="1588833983466" TEXT="aws --version"/>
+</node>
+<node CREATED="1595829087225" ID="ID_1459875601" MODIFIED="1595829093144" TEXT="linux">
+<node CREATED="1595829093145" ID="ID_1419958720" MODIFIED="1595829096197" TEXT="https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html#cliv2-linux-install"/>
 </node>
 </node>
 <node CREATED="1588835682110" ID="ID_580145522" MODIFIED="1588835689376" TEXT="configure">
@@ -2476,7 +2489,7 @@
 </node>
 <node CREATED="1589960806604" ID="ID_75455654" MODIFIED="1589960835706" TEXT="19 TCO"/>
 </node>
-<node CREATED="1589964746845" FOLDED="true" ID="ID_610400560" MODIFIED="1591240645528" TEXT="scp-c01 2019">
+<node CREATED="1589964746845" ID="ID_610400560" MODIFIED="1606802467699" TEXT="scp-c01 2019">
 <node CREATED="1590551245501" ID="ID_1381597152" MODIFIED="1590551279934" TEXT="website">
 <node CREATED="1589963326423" ID="ID_1502305599" MODIFIED="1589963328076" TEXT="https://www.bilibili.com/video/BV1hJ411U7vd"/>
 <node CREATED="1590551260127" ID="ID_956598606" MODIFIED="1590551262493" TEXT="https://www.iloveaws.cn/"/>
@@ -2605,7 +2618,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1590139904855" FOLDED="true" ID="ID_1523865211" MODIFIED="1590633174424" TEXT="cross account to access resource">
+<node CREATED="1590139904855" ID="ID_1523865211" MODIFIED="1606802467751" TEXT="cross account to access resource">
 <node CREATED="1590140311675" ID="ID_1454116987" MODIFIED="1590393691700" TEXT="aws account">
 <node CREATED="1590140324059" ID="ID_1091493843" MODIFIED="1590140340211" TEXT="account a: 224837422659"/>
 <node CREATED="1590140341756" ID="ID_353818449" MODIFIED="1590140353983" TEXT="account b:937435482317"/>
@@ -3765,8 +3778,7 @@ dKh1KPbSnvYFMi0coJ3CY3M9XtnHH9jF/xtJqO4qbWZ1A71PpL7C1TjaUdSq640Hf/kyLEsoHhs=
       curl http://127.0.0.1:5000
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1591684005952" ID="ID_453530591" MODIFIED="1591684084198">
 <richcontent TYPE="NODE"><html>
@@ -3840,6 +3852,342 @@ dKh1KPbSnvYFMi0coJ3CY3M9XtnHH9jF/xtJqO4qbWZ1A71PpL7C1TjaUdSq640Hf/kyLEsoHhs=
 <node CREATED="1592211313272" ID="ID_1222014440" MODIFIED="1592211319636" TEXT="codePipeline">
 <node CREATED="1592211395066" ID="ID_514057799" MODIFIED="1592211407605" TEXT="source: codeCommit"/>
 <node CREATED="1592211410586" ID="ID_775714920" MODIFIED="1592211424207" TEXT="deploy: codeDeploy"/>
+</node>
+</node>
+<node CREATED="1600047241065" ID="ID_737641546" MODIFIED="1600047248938" TEXT="route 53">
+<node CREATED="1600047248939" ID="ID_1787877632" MODIFIED="1600047273953" TEXT="https://www.bilibili.com/video/BV1M7411d7cL"/>
+<node CREATED="1600414986350" ID="ID_1530639054" MODIFIED="1600414997361" TEXT="ebaotech account">
+<node CREATED="1600414998405" ID="ID_1638003790" MODIFIED="1602835666099">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p class="MsoNormal">
+      Account ID:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;857484491102<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      IAM Account:&#160;&#160;&#160;&#160;&#160;david.wei&#160;| ebaotech demain name
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1600048954437" ID="ID_313570632" MODIFIED="1600048979414" TEXT="facilitating network 3 goals">
+<node CREATED="1600049108202" ID="ID_1575564612" MODIFIED="1600049118955" TEXT="3 goals">
+<node CREATED="1600048979416" ID="ID_1719186722" MODIFIED="1600049000361" TEXT="availability"/>
+<node CREATED="1600049001828" ID="ID_206289807" MODIFIED="1600049004977" TEXT="speed"/>
+<node CREATED="1600049006124" ID="ID_1092266491" MODIFIED="1600049011578" TEXT="accurately"/>
+</node>
+<node CREATED="1600049096278" ID="ID_1152264351" MODIFIED="1600049124041" TEXT="aws solution">
+<node CREATED="1600049023677" ID="ID_124703178" MODIFIED="1600049034453" TEXT="route 53">
+<node CREATED="1600049051253" ID="ID_1636006519" MODIFIED="1600049071078" TEXT="precision"/>
+<node CREATED="1600049072607" ID="ID_570098583" MODIFIED="1600049080767" TEXT="speed"/>
+</node>
+<node CREATED="1600049125942" ID="ID_1735277539" MODIFIED="1600049144870" TEXT="cloudfront">
+<node CREATED="1600049154113" ID="ID_1242478595" MODIFIED="1600049192562" TEXT="speed and accurate a few steps further"/>
+</node>
+</node>
+</node>
+<node CREATED="1600049362240" ID="ID_1589620215" MODIFIED="1600049380422" TEXT="4 distinct areas">
+<node CREATED="1600049385464" ID="ID_240258210" MODIFIED="1600049397351" TEXT="domain registration"/>
+<node CREATED="1600049399942" ID="ID_1283263328" MODIFIED="1600049409165" TEXT="dns management">
+<node CREATED="1600051510496" ID="ID_113873755" MODIFIED="1600051510496" TEXT=""/>
+</node>
+<node CREATED="1600049413338" ID="ID_1361928938" MODIFIED="1600049424428" TEXT="health checks"/>
+<node CREATED="1600049427047" ID="ID_1395972441" MODIFIED="1600053890749" TEXT="routing policy (traffic management)">
+<node CREATED="1600055263906" ID="ID_1404630152" MODIFIED="1600055269918" TEXT="weighed"/>
+<node CREATED="1600055271349" ID="ID_59313228" MODIFIED="1600055278836" TEXT="latency"/>
+</node>
+</node>
+<node CREATED="1600051551283" ID="ID_1586429241" MODIFIED="1600051588823" TEXT="Resource Record">
+<node CREATED="1600051589674" ID="ID_1287412279" MODIFIED="1600051596631" TEXT="SOA">
+<node CREATED="1600051597552" ID="ID_1887092632" MODIFIED="1600051613017" TEXT="Start of Authority">
+<node CREATED="1600076575847" ID="ID_1656344273" MODIFIED="1600076587124" TEXT="set automatically"/>
+</node>
+</node>
+<node CREATED="1600051619277" ID="ID_606236016" MODIFIED="1600051621972" TEXT="NS">
+<node CREATED="1600051622858" ID="ID_473395105" MODIFIED="1600052094404" TEXT="Name Server">
+<node CREATED="1600076588185" ID="ID_1090181087" MODIFIED="1600076589869" TEXT="set automatically"/>
+</node>
+</node>
+<node CREATED="1600051630743" ID="ID_1101175436" MODIFIED="1600051632447" TEXT="A">
+<node CREATED="1600051633307" ID="ID_283544048" MODIFIED="1600051638491" TEXT="Address">
+<node CREATED="1600052034214" ID="ID_754261843" MODIFIED="1600052087572" TEXT="Domain Name -&gt; IP"/>
+</node>
+</node>
+<node CREATED="1600051849858" ID="ID_672871673" MODIFIED="1600051856939" TEXT="PTR">
+<node CREATED="1600051857946" ID="ID_1594992955" MODIFIED="1600051867898" TEXT="Pointer">
+<node CREATED="1600051907145" ID="ID_704996737" MODIFIED="1600051915384" TEXT="IP -&gt; FQDN">
+<node CREATED="1600051916258" ID="ID_66497888" MODIFIED="1600051951344" TEXT="Full Qualified Domain Name"/>
+</node>
+</node>
+</node>
+<node CREATED="1600051640443" ID="ID_1636691769" MODIFIED="1600051648030" TEXT="CNAME">
+<node CREATED="1600051648844" ID="ID_1779983848" MODIFIED="1600051668610" TEXT="Canonical Name"/>
+</node>
+<node CREATED="1600051671390" ID="ID_956563354" MODIFIED="1600051675369" TEXT="MX">
+<node CREATED="1600051676133" ID="ID_1783267574" MODIFIED="1600051685594" TEXT="Mail eXchange"/>
+</node>
+<node CREATED="1600052476074" ID="ID_1427833062" MODIFIED="1600052487941" TEXT="SOA -&gt; NS -&gt; A"/>
+</node>
+<node CREATED="1600053332554" FOLDED="true" ID="ID_306064949" MODIFIED="1602833182984" TEXT="practice">
+<node CREATED="1600053336945" ID="ID_2286470" MODIFIED="1600054842581" TEXT="domain registration">
+<node CREATED="1600053394025" ID="ID_1665950782" MODIFIED="1600053409176" TEXT="register a domain"/>
+<node CREATED="1600053410658" ID="ID_1340724141" MODIFIED="1600053494696" TEXT="add an A record set to route an EC2 web application">
+<node CREATED="1600055167640" ID="ID_705766684" MODIFIED="1600055174523" TEXT="TTL: 1s"/>
+</node>
+</node>
+<node CREATED="1600053346378" ID="ID_886011554" MODIFIED="1600054863941" TEXT="health check and routing policy">
+<node CREATED="1600054984144" ID="ID_1600651471" MODIFIED="1600055016688" TEXT="add another A record set to rout an another EC2"/>
+<node CREATED="1600054866039" ID="ID_1841291183" MODIFIED="1600055025047" TEXT="add 2 health checks"/>
+<node CREATED="1600054878036" ID="ID_202095789" MODIFIED="1600055072947" TEXT="revise A record set respectively">
+<node CREATED="1600054892041" ID="ID_1105838209" MODIFIED="1600054913766" TEXT="select routing policy: weighted"/>
+<node CREATED="1600054933134" ID="ID_1149432002" MODIFIED="1600054963898" TEXT="select a health check (added)"/>
+</node>
+<node CREATED="1600053953268" ID="ID_1578484969" MODIFIED="1600053978311" TEXT="test routing policy (weighted)"/>
+</node>
+<node CREATED="1600055409089" ID="ID_359966645" MODIFIED="1600055430473" TEXT="routing policy: latency"/>
+<node CREATED="1600055803523" ID="ID_1236570414" MODIFIED="1600055813559" TEXT="routing policy: failover">
+<node CREATED="1600055843409" ID="ID_1672341906" MODIFIED="1600055935449" TEXT="Failover Record Type"/>
+</node>
+<node CREATED="1600076539023" ID="ID_915919619" MODIFIED="1600076550274" TEXT="routing policy: geolocation"/>
+<node CREATED="1600076758141" ID="ID_24139461" MODIFIED="1600076791897" TEXT="routing policy: mutilvalue answer routing">
+<node CREATED="1600076793011" ID="ID_237641187" MODIFIED="1600076811794">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      nslookup
+    </p>
+    <p>
+      www.sina.com
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1600417614418" ID="ID_1755671504" MODIFIED="1600417628364" TEXT="post test REST">
+<node CREATED="1600417628365" ID="ID_464331300" MODIFIED="1600418647194">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p class="MsoNormal">
+      Access Key:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; AKIA4PJQO7FPINU4NX6P<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      Security Key:&#160;&#160;&#160;&#160;&#160; MYXgMYp2n2DMuKJ08LqYDydGSDE8fG4sGsYlPktv<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      <o p="#DEFAULT">
+      &#160;</o>
+    </p>
+    <p class="MsoNormal">
+      test tool: postman (Authorization Type: AWS Signature)<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      <o p="#DEFAULT">
+      &#160;</o>
+    </p>
+    <p class="MsoNormal">
+      Goal: add one A record for hosted zone<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Type: A<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Name: dnstest01.insuremo.org.cn.<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; IP: 192.168.0.100<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; TTL: 100<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      <o p="#DEFAULT">
+      &#160;</o>
+    </p>
+    <p class="MsoNormal">
+      REST Requests<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      POST 2013-04-01/hostedzone/Z06806343T5N9OBIJKMWG/rrset/ HTTP/1.1<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      host:route53.amazonaws.com<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      x-amz-date:<font size="9.0pt" face="Helvetica,sans-serif" color="#505050">&#160;20200918T081213Z</font><o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      authorization:AWS4-HMAC-SHA256<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Credential= AKIA4PJQO7FPINU4NX6P/20200918/us-east-1/route53/aws4_request,<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; SignedHeaders=content-length;content-type;host;user-agent;x-amz-date;x-amz-target,<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Signature= 1f4f7a7648a908138535d74aece0805e94cd0ea172d90a38cf7f702c18953c73 <o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      [Other required headers]<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      <o p="#DEFAULT">
+      &#160;</o>
+    </p>
+    <p class="MsoNormal">
+      Body:<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &lt;ChangeResourceRecordSetsRequest xmlns=&quot;https://route53.amazonaws.com/doc/2013-04-01/&quot;&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160; &lt;ChangeBatch&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160; &lt;Changes&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;Change&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;Action&gt;CREATE&lt;/Action&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;ResourceRecordSet&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;Name&gt;dnstest01.insuremo.org.cn.&lt;/Name&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;ResourceRecords&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;ResourceRecord&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;Value&gt;192.168.0.100&lt;/Value&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;/ResourceRecord&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;/ResourceRecords&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;TTL&gt;100&lt;/TTL&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;Type&gt;A&lt;/Type&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;/ResourceRecordSet&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;/Change&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160; &lt;/Changes&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160; &lt;Comment&gt;string&lt;/Comment&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160; &lt;/ChangeBatch&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &lt;/ChangeResourceRecordSetsRequest&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      REST Responses (success)<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      Body:<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &lt;?xml version=&quot;1.0&quot;?&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &lt;ChangeResourceRecordSetsResponse xmlns=&quot;https://route53.amazonaws.com/doc/2013-04-01/&quot;&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160; &lt;ChangeInfo&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;Id&gt;/change/C04947712ZHM0RS4NV854&lt;/Id&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;Status&gt;PENDING&lt;/Status&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;SubmittedAt&gt;2020-09-18T08:12:13.833Z&lt;/SubmittedAt&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;Comment&gt;string&lt;/Comment&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160; &lt;/ChangeInfo&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &lt;/ChangeResourceRecordSetsResponse&gt;<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      <o p="#DEFAULT">
+      &#160;</o>
+    </p>
+    <p class="MsoNormal">
+      <o p="#DEFAULT">
+      &#160;</o>
+    </p>
+    <p class="MsoNormal">
+      Create, Delete, and Upsert<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      Use ChangeResourceRecordsSetsRequest to perform the following actions:<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      CREATE: Creates a resource record set that has the specified values.<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      DELETE: Deletes an existing resource record set that has the specified values.<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      UPSERT: If a resource record set does not already exist, AWS creates it. If a resource set does exist, Route 53 updates it with the values in the request.<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      <o p="#DEFAULT">
+      &#160;</o>
+    </p>
+    <p class="MsoNormal">
+      Reference:<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      api: https://docs.aws.amazon.com/Route53/latest/APIReference/API_ChangeResourceRecordSets.html<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      demo: https://docs.aws.amazon.com/Route53/latest/APIReference/requests-rest-overview.html<o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      aws signation version 4: https://docs.aws.amazon.com/general/latest/gr/signature-version-4.html <o p="#DEFAULT"></o>
+    </p>
+    <p class="MsoNormal">
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160; \_ example: https://docs.aws.amazon.com/general/latest/gr/signature-v4-examples.html<o p="#DEFAULT"></o>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
 </node>
 </node>
 </node>
@@ -4139,7 +4487,7 @@ dKh1KPbSnvYFMi0coJ3CY3M9XtnHH9jF/xtJqO4qbWZ1A71PpL7C1TjaUdSq640Hf/kyLEsoHhs=
 </node>
 <node CREATED="1590571953988" ID="ID_1379297875" MODIFIED="1592193764883" POSITION="right" TEXT="aws management">
 <node CREATED="1590571975503" ID="ID_1961660795" MODIFIED="1590572106669" TEXT="system manager console"/>
-<node CREATED="1590572108164" FOLDED="true" ID="ID_1444683709" MODIFIED="1591683987632" TEXT="aws commend line tools">
+<node CREATED="1590572108164" ID="ID_1444683709" MODIFIED="1603176594994" TEXT="aws commend line tools">
 <node CREATED="1590572416606" ID="ID_1203982289" MODIFIED="1590572428600" TEXT="aws command line interface">
 <node CREATED="1590572429582" ID="ID_1151369522" MODIFIED="1590572435678" TEXT="https://aws.amazon.com/cli/"/>
 <node CREATED="1590748458995" ID="ID_1227697535" MODIFIED="1590748464550" TEXT="windows">
@@ -4363,27 +4711,6 @@ dKh1KPbSnvYFMi0coJ3CY3M9XtnHH9jF/xtJqO4qbWZ1A71PpL7C1TjaUdSq640Hf/kyLEsoHhs=
 </node>
 <node CREATED="1592193775534" ID="ID_390342602" MODIFIED="1592193802504" POSITION="right" TEXT="practice">
 <node CREATED="1592193866161" ID="ID_649079330" MODIFIED="1592193871458" TEXT="waf">
-<node CREATED="1592193871458" ID="ID_1284146544" MODIFIED="1592193878782" TEXT="account">
-<node CREATED="1592193879753" ID="ID_1049923657" MODIFIED="1592193881974" TEXT="https://cloudmgmt.ebaotech.com/adfs/ls/idpinitiatedsignon.htm"/>
-<node CREATED="1592193894961" ID="ID_812697130" MODIFIED="1592193930422" TEXT="ebaotech\david.wei"/>
-<node CREATED="1592193908395" ID="ID_1596058911" MODIFIED="1592193918767" TEXT="demain password"/>
-<node CREATED="1592193951379" ID="ID_1521514032" MODIFIED="1592193964545">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p class="MsoNormal">
-      <font size="10.5pt" face="Roboto" color="#444444">AKIA4PJQO7FPG53BZEMV<o p="#DEFAULT"></o></font>
-    </p>
-    <p class="MsoNormal">
-      <font size="10.5pt" face="Roboto" color="#444444">2vScx2iX+VdgTkRiuQGo9ybIxomN8C1XC38GRoTi<o p="#DEFAULT"></o></font>
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
 <node CREATED="1592194359438" ID="ID_1382343993" MODIFIED="1592194361121" TEXT="AWS WAF web access control list (web ACL)"/>
 </node>
 </node>
